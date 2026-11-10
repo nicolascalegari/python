@@ -1,2 +1,2 @@
 # Algoritmos_Python
-Algoratimos em Python
+Estudos em Python
